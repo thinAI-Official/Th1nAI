@@ -18,3 +18,6 @@ No! You can't decompile it. I put more work on it for Ranvir and how smilar to m
 
 # Status Update about beta software
 Now backers will get a beta version of this software before 1 week of it releases, so donate at least $10 at patreon.com/th1nn or ko-fi.com/ranvir and wait for the next pre-release betas. An free registration will also available if I plan it.
+
+# THIS VERSION OF TH1NAI IS NOW DEPRECATED AND MIGRATED TO MS COPILOT ❎
+This AI went dumb for HTML versions so it moved to Microsoft Copilot and this HTML is deprecated
